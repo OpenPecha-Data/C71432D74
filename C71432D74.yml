@@ -1,0 +1,9 @@
+views:
+- name: text-pair
+  serializer_class: TextPairSerializer
+collection:
+  id: C71432D74
+  title: lotsawa house'
+  items:
+
+
